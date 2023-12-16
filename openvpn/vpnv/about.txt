@@ -1,0 +1,2 @@
+This server are provide by freevpn.us for free.
+You can use port 80, 443 for TCP and port 1194 for UDP connection, also you can use SSL/TLS with port 443.
